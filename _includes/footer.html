@@ -55,7 +55,7 @@
 </footer>
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <script>
- $.getJSON( "https://www.strava.com/api/v3/athlete/activities?per_page=5&access_token=abde00b617d024e67526c2c5227c654f8ace572f&callback=?", function (data) {
+ $.getJSON( "https://www.strava.com/api/v3/athlete/activities?per_page=10&access_token=abde00b617d024e67526c2c5227c654f8ace572f&callback=?", function (data) {
  
   $.each(data, function( key, value ) {
     $('.test').append('<p><a href="https://www.strava.com/activities/'+ value.id +'">' + value.name + '</a></p>')
