@@ -30,7 +30,7 @@ Histórico da minha participação em provas oficias:
 
 27/09/2015 - [Ultra Trail - Serra D'arga 2015](http://www.i-tra.org/community/frederico.cerdeira/759372/) 53km / 08:28:01
 
-27/09/2015 - [Ultra Trail - Grande Trail do Zêzere ](http://www.i-tra.org/community/frederico.cerdeira/759372/) 71,2km / 09:57:07
+27/09/2015 - [Ultra Trail - Grande Trail do Zêzere ](http://www.i-tra.org/community/frederico.cerdeira/759372/) 71.2km / 09:57:07
 
 
 
