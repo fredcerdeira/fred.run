@@ -4,7 +4,7 @@ title: Sobre
 permalink: /sobre/
 ---
 
-Este é espaço onde pretendo criar registos sobre as minhas actividades relacionadas com Corrida e BTT.
+Este é espaço onde pretendo criar registos sobre as minhas actividades relacionadas com Corrida e Ciclismo.
 
 &nbsp;
 
@@ -31,6 +31,8 @@ Histórico da minha participação em provas oficias:
 27/09/2015 - [Ultra Trail - Serra D'arga 2015](http://www.i-tra.org/community/frederico.cerdeira/759372/) 53km / 08:28:01
 
 27/09/2015 - [Ultra Trail - Grande Trail do Zêzere ](http://www.i-tra.org/community/frederico.cerdeira/759372/) 71.2km / 09:57:07
+
+12/12/2015 - [Trail - 1º Trilhos do Javali ](http://www.i-tra.org/community/frederico.cerdeira/759372/) 15Km / 01:16:07
 
 
 
