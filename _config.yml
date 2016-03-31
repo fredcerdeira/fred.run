@@ -2,7 +2,7 @@
 title: fred.run
 email: fredcerdeira@me.com
 description: > # this means to ignore newlines until "baseurl:"
- Este é um espaço onde pretendo de uma forma simples, registar as minhas actividades relacionadas com o mundo da Corrida e Ciclicmo.
+ Este é um espaço onde pretendo de uma forma simples, registar as minhas actividades relacionadas com o mundo da Corrida e Ciclismo.
 baseurl: "/run" # the subpath of your site, e.g. /blog/
 url: "http://fredcerdeira.github.io" # the base hostname & protocol for your site
 twitter_username: fredcerdeira
